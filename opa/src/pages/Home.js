@@ -33,7 +33,7 @@ const Home = () => {
           loop
         />
       </div>
-      <div className="executive">THE OPA EXECUTIVE</div>
+      <div className="executive"> OPA EXECUTIVE</div>
 
       <section className="homeCard">
         {lists.map((item) => {
