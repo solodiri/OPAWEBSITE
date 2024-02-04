@@ -24,8 +24,8 @@ const Blog = () => {
           <h2>OPA Members with Prime Minister</h2>
           <p>
             The event of the Coronation and recognition of the Prime Minister of
-            Okoloma Kingdom in Afam, the person of Chief Prime Minister at the
-            middle with full regalia.
+            Okoloma Kingdom in Afam, the person of Chief Prime Minister Monday
+            Hart in the middle with his full regalia.
           </p>
         </div>
       </div>
