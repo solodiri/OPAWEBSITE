@@ -4,6 +4,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 100%;
+  /* background: rgb(231, 8, 8); */
 }
 .homeContainer h1 {
   font-size: 3vw;
@@ -29,6 +31,7 @@
 }
 .headerImage {
   display: flex;
+  /* width: 300px; */
   width: 100%;
   align-items: center;
   justify-content: center;

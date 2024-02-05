@@ -112,9 +112,9 @@ form {
     color: black;
   }
 }
-
-@media screen and (max-width: 610px) {
+@media screen and (max-width: 740px) {
   .myfooter {
+    /* background-color: blueviolet; */
     display: block;
     justify-content: center;
     align-items: center;
@@ -131,6 +131,12 @@ form {
     justify-content: center;
     align-items: center;
     margin: 10px;
-    /* width: 100vw; */
+  }
+  .location,
+  .contact,
+  .membership,
+  .socialmedia,
+  .form {
+    width: 100%;
   }
 }

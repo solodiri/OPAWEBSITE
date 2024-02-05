@@ -86,7 +86,7 @@ const Footer = () => {
             </div>
           </div>
 
-          <form onSubmit={handleSubmit}>
+          <form className="form" onSubmit={handleSubmit}>
             <h5 className="newsLetter">Subscribe to our News Letters</h5>
             <input
               onChange={(e) => {
