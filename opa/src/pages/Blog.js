@@ -7,7 +7,7 @@ const Blog = () => {
           <h2>Blog</h2>
           <img
             className=" projectImg"
-            src="/images/opapix2.jpg"
+            src="./images/opapix2.jpg"
             alt="projectImg"
           />
           <h2>OPA Members with Prime Minister</h2>
@@ -19,7 +19,7 @@ const Blog = () => {
 
           <img
             className=" projectImg"
-            src="/images/opapix1.jpg"
+            src="./images/opapix1.jpg"
             alt="projectImg"
           />
           <h2>Prime Minister Ceremony</h2>

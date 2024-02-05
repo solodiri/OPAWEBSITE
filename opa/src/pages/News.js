@@ -13,7 +13,7 @@ const Projects = () => {
           </h2>
           <img
             className=" projectImg"
-            src="/images/wike-and-fub.webp"
+            src="./images/wike-and-fub.webp"
             alt="projectImg"
           />
           <p>

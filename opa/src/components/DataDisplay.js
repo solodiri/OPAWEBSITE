@@ -5,7 +5,7 @@
 const lists = [
   {
     id: "001",
-    image: "images/SOLO.jpg",
+    image: "./images/SOLO.jpg",
     post: "Chairman",
     name: "Sen. Solomon Diri",
     age: "40",
@@ -14,7 +14,7 @@ const lists = [
   },
   {
     id: "002",
-    image: "images/chris.png",
+    image: "./images/chris.png",
     post: "Vice Chairman",
     name: "Mr. Ibisnye Ogolo",
     age: "36",
@@ -23,7 +23,7 @@ const lists = [
   },
   {
     id: "003",
-    image: "images/ebere.png",
+    image: "./images/ebere.png",
     post: "Secretary",
     name: "Mr. Degogo Jaja",
     age: "30",
@@ -32,7 +32,7 @@ const lists = [
   },
   {
     id: "004",
-    image: "images/chris.png",
+    image: "./images/chris.png",
     post: "Asst. Secretary",
     name: "Mr. Boma Pepple",
     age: "30",
@@ -41,7 +41,7 @@ const lists = [
   },
   {
     id: "005",
-    image: "images/grace.jpg",
+    image: "./images/grace.jpg",
     post: "Treasurer",
     name: "Mrs. Ann Opusunju",
     age: "50",
@@ -50,7 +50,7 @@ const lists = [
   },
   {
     id: "006",
-    image: "images/stel1.jpg",
+    image: "./images/stel1.jpg",
     post: "Financial Secretary",
     name: "Miss Patricia Wariso",
     age: "50",
@@ -59,7 +59,7 @@ const lists = [
   },
   {
     id: "007",
-    image: "images/ebere.png",
+    image: "./images/ebere.png",
     post: "Welfare Officer 1",
     name: "Mr. Enyinna Pepple",
     age: "40",
@@ -68,7 +68,7 @@ const lists = [
   },
   {
     id: "008",
-    image: "images/madam.jpg",
+    image: "./images/madam.jpg",
     post: "Welfare Officer 2",
     name: "Mrs. Comfort Tolofari",
     age: "40",
@@ -77,7 +77,7 @@ const lists = [
   },
   {
     id: "009",
-    image: "images/ebere.png",
+    image: "./images/ebere.png",
     post: "P.R.O",
     name: "Mr. Dieprinye Brown",
     age: "40",
@@ -86,7 +86,7 @@ const lists = [
   },
   {
     id: "010",
-    image: "images/solo.jpg",
+    image: "./images/solo.jpg",
     post: "Provost",
     name: "Mr. Alali Goodhead",
     age: "40",
@@ -95,7 +95,7 @@ const lists = [
   },
   {
     id: "011",
-    image: "images/stel2.jpg",
+    image: "./images/stel2.jpg",
     post: "Auditor 1",
     name: "Mr. Any Body 1",
     age: "40",
@@ -104,7 +104,7 @@ const lists = [
   },
   {
     id: "012",
-    image: "images/ebere.png",
+    image: "./images/ebere.png",
     post: "Auditor 2",
     name: "Mrs. Some Body 2",
     age: "40",

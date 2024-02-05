@@ -17,7 +17,7 @@ const NavBar = () => {
         <Link to="/" onClick={closeMobleMenu}>
           <div className="logodiv">
             <div className="logo">OPA </div>
-            <img src="images/manila.png" className="imglo" alt="imglogo" />
+            <img src="./images/manila.png" className="imglo" alt="imglogo" />
           </div>
         </Link>
 

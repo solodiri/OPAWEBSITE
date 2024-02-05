@@ -11,7 +11,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* background-color: black; */
-  background-image: url(images/40.jpg);
+  background-image: url(./images/40.jpg);
 
   background-repeat: no-repeat;
   background-size: cover;

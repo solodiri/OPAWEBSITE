@@ -1,7 +1,7 @@
 export const lists = [
   {
     id: "001",
-    image: "images/SOLO.jpg",
+    image: "./images/SOLO.jpg",
     post: "Chairman",
     name: "Sen. Solomon Diri",
     age: "40",
@@ -10,7 +10,7 @@ export const lists = [
   },
   {
     id: "002",
-    image: "images/ogolo.png",
+    image: "./images/ogolo.png",
     post: "Vice Chairman",
     name: "Mr. Ibisnye Ogolo",
     age: "36",
@@ -19,7 +19,7 @@ export const lists = [
   },
   {
     id: "003",
-    image: "images/gogo.png",
+    image: "./images/gogo.png",
     post: "Secretary",
     name: "Mr. Degogo Jaja",
     age: "30",
@@ -28,7 +28,7 @@ export const lists = [
   },
   {
     id: "004",
-    image: "images/boma.jpg",
+    image: "./images/boma.jpg",
     post: "Asst. Secretary",
     name: "Mr. Boma Pepple",
     age: "30",
@@ -37,7 +37,7 @@ export const lists = [
   },
   {
     id: "005",
-    image: "images/anna.png",
+    image: "./images/anna.png",
     post: "Treasurer",
     name: "Mrs. Ann Opusunju",
     age: "50",
@@ -46,7 +46,7 @@ export const lists = [
   },
   {
     id: "006",
-    image: "images/gift.jpg",
+    image: "./images/gift.jpg",
     post: "Financial Secretary",
     name: "Mrs Gift Jaja",
     age: "50",
@@ -55,7 +55,7 @@ export const lists = [
   },
   {
     id: "007",
-    image: "images/enyinna.jpg",
+    image: "./images/enyinna.jpg",
     post: "Welfare Officer 1",
     name: "Mr. Enyinna Pepple",
     age: "40",
@@ -64,7 +64,7 @@ export const lists = [
   },
   {
     id: "008",
-    image: "images/comfort.jpg",
+    image: "./images/comfort.jpg",
     post: "Welfare Officer 2",
     name: "Mrs. Comfort Tolofari",
     age: "40",
@@ -73,7 +73,7 @@ export const lists = [
   },
   {
     id: "009",
-    image: "images/brown.jpg",
+    image: "./images/brown.jpg",
     post: "P.R.O",
     name: "Mr. Dieprinye Brown",
     age: "40",
@@ -82,7 +82,7 @@ export const lists = [
   },
   {
     id: "010",
-    image: "images/Alali.png",
+    image: "./images/Alali.png",
     post: "Provost",
     name: "Mr. Alali Goodhead",
     age: "40",
@@ -91,7 +91,7 @@ export const lists = [
   },
   {
     id: "011",
-    image: " images/ogolo.png",
+    image: " ./images/ogolo.png",
     post: "Auditor 1",
     name: "Mr. Ibisnye Ogolo",
     age: "40",
@@ -100,7 +100,7 @@ export const lists = [
   },
   {
     id: "012",
-    image: "images/stella.jpg",
+    image: "./images/stella.jpg",
     post: "Auditor 2",
     name: "Mrs. Stella Diri",
     age: "40",

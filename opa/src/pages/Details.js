@@ -307,22 +307,22 @@ const Details = () => {
           <div className="warContainer">
             <img
               className="warCanoe"
-              src="/images/war1.png"
+              src="./images/war1.png"
               alt="constitution"
             />
             <img
               className="warCanoe"
-              src="/images/war2.png"
+              src="./images/war2.png"
               alt="constitution"
             />
             <img
               className="warCanoe"
-              src="/images/war3.png"
+              src="./images/war3.png"
               alt="constitution"
             />
             <img
               className="warCanoe"
-              src="/images/war4.png"
+              src="./images/war4.png"
               alt="constitution"
             />
           </div>

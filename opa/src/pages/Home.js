@@ -1,9 +1,8 @@
 import "./Home.css";
 import { Link } from "react-router-dom";
 import { lists } from "../components/Data";
-// import imgBg2 from "./asset/pages/chris.png";
-import imgbg2 from "./Jaja.jpg";
-// import CardRender from "../components/CardRender";
+import jajaimg from "../images/Jaja.jpg";
+// import imgbg2 from "./Jaja.jpg";
 import Cards from "../components/Cards";
 // import imgbg from "./7.jpg";
 
@@ -23,11 +22,11 @@ const Home = () => {
           <button className="readmore btn">Read More</button>
         </Link>
       </div>
-      <img className="headerImage" src={imgbg2} alt="headerImage" />
+      <img className="headerImage" src={jajaimg} alt="headerImage" />
       <div className="video">
         <video
           className="headerImage"
-          src="images/uke groups.mp4"
+          src="./images/uke groups.mp4"
           autoPlay
           muted
           loop
@@ -43,7 +42,7 @@ const Home = () => {
       <div className="video">
         <video
           className="headerImage"
-          src="images/culture.mp4"
+          src="./images/culture.mp4"
           autoPlay
           muted
           loop
